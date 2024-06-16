@@ -1,7 +1,7 @@
 # IPO-Success-Analysis
 
 ## Description:
-This repository contains the code and data used in the Project, which focuses on determining the success factors of initial public offerings (IPOs). The project analyzes data from multiple sources, including the WRDS IPO database, CRSP monthly stock data, and Compustat executive compensation data, covering the period from 2010 to 2015. Due to the size of the files, I can't upload them on Guthub, please find the link to access the files here(https://drive.google.com/drive/folders/1YsvNj9Cr-PffK85PItvoZ7tjye5-27dv?usp=drive_link).
+This repository contains the code and data used in the Project, which focuses on determining the success factors of initial public offerings (IPOs). The project analyzes data from multiple sources, including the WRDS IPO database, CRSP monthly stock data, and Compustat executive compensation data, covering the period from 2010 to 2015. Due to the size of the files, I can't upload them on Github, please find the link to access the files here(https://drive.google.com/drive/folders/1YsvNj9Cr-PffK85PItvoZ7tjye5-27dv?usp=drive_link).
 
 ## Project Overview:
 The aim of this project is to identify and evaluate the key determinants of IPO success. By examining historical data, the project seeks to provide insights into how factors such as offering price, market conditions, executive compensation, and company financials impact the performance of IPOs over time.
